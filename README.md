@@ -3,8 +3,11 @@
 **To monitor a folder** for new files and move them to another folder using Python, you can use the following modules:
 
 **os**: Provides functions for interacting with the operating system, like listing directory contents.
+
 **logging**: Allows you to record events and errors during execution for easier debugging and monitoring.
+
 **shutil**: Offers high-level operations on files and collections of files, like moving them between directories.
+
 **time**: Enables you to control the timing of actions within your script.
 
 Steps involved:
